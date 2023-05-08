@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mathew Bungov (Founder and CEO of Omni)
+- 👀 I’m interested in different topics, but here i'm going to manage Omni AI's code
+- 🌱 I’m currently learning different things, but here i'm learning programming and AI Stuff
+- 💞️ I’m looking to collaborate with developers who has passion to help me create Omni's projects
+- 📫 If you want to be in our team, send request to mbungov@omni-group.dev
